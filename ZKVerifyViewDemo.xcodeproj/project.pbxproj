@@ -7,15 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD0F071B21A7AAA400947030 /* ZKPuzzleVerifyView.m in Sources */ = {isa = PBXBuildFile; fileRef = FD0F071A21A7AAA400947030 /* ZKPuzzleVerifyView.m */; };
+		FD0F072A21A7EBE200947030 /* ZKVerifyAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = FD0F072921A7EBE200947030 /* ZKVerifyAlertView.m */; };
+		FD12346C21AB98890077CEF1 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346021AB98880077CEF1 /* 10.jpg */; };
+		FD12346D21AB98890077CEF1 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346121AB98880077CEF1 /* 11.jpg */; };
+		FD12346E21AB98890077CEF1 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346221AB98880077CEF1 /* 1.jpg */; };
+		FD12346F21AB98890077CEF1 /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346321AB98880077CEF1 /* 12.jpg */; };
+		FD12347021AB98890077CEF1 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346421AB98880077CEF1 /* 3.jpg */; };
+		FD12347121AB98890077CEF1 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346521AB98880077CEF1 /* 5.jpg */; };
+		FD12347221AB98890077CEF1 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346621AB98890077CEF1 /* 6.jpg */; };
+		FD12347321AB98890077CEF1 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346721AB98890077CEF1 /* 2.jpg */; };
+		FD12347421AB98890077CEF1 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346821AB98890077CEF1 /* 9.jpg */; };
+		FD12347521AB98890077CEF1 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346921AB98890077CEF1 /* 8.jpg */; };
+		FD12347621AB98890077CEF1 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346A21AB98890077CEF1 /* 7.jpg */; };
+		FD12347721AB98890077CEF1 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD12346B21AB98890077CEF1 /* 4.jpg */; };
 		FD1FE81121A68044002F8D5E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FD1FE81021A68044002F8D5E /* AppDelegate.m */; };
 		FD1FE81421A68044002F8D5E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD1FE81321A68044002F8D5E /* ViewController.m */; };
 		FD1FE81721A68044002F8D5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD1FE81521A68044002F8D5E /* Main.storyboard */; };
 		FD1FE81921A68046002F8D5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD1FE81821A68046002F8D5E /* Assets.xcassets */; };
 		FD1FE81C21A68046002F8D5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD1FE81A21A68046002F8D5E /* LaunchScreen.storyboard */; };
 		FD1FE81F21A68046002F8D5E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FD1FE81E21A68046002F8D5E /* main.m */; };
+		FDF285ED21A9C32800B6A77B /* ZKPuzzlePathMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF285EC21A9C32800B6A77B /* ZKPuzzlePathMaker.m */; };
+		FDF285F021A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF285EF21A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD0F071921A7AAA400947030 /* ZKPuzzleVerifyView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKPuzzleVerifyView.h; sourceTree = "<group>"; };
+		FD0F071A21A7AAA400947030 /* ZKPuzzleVerifyView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKPuzzleVerifyView.m; sourceTree = "<group>"; };
+		FD0F072821A7EBE200947030 /* ZKVerifyAlertView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKVerifyAlertView.h; sourceTree = "<group>"; };
+		FD0F072921A7EBE200947030 /* ZKVerifyAlertView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKVerifyAlertView.m; sourceTree = "<group>"; };
+		FD12346021AB98880077CEF1 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		FD12346121AB98880077CEF1 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		FD12346221AB98880077CEF1 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		FD12346321AB98880077CEF1 /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpg; sourceTree = "<group>"; };
+		FD12346421AB98880077CEF1 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		FD12346521AB98880077CEF1 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		FD12346621AB98890077CEF1 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		FD12346721AB98890077CEF1 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		FD12346821AB98890077CEF1 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		FD12346921AB98890077CEF1 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		FD12346A21AB98890077CEF1 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		FD12346B21AB98890077CEF1 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
 		FD1FE80C21A68044002F8D5E /* ZKVerifyViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZKVerifyViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD1FE80F21A68044002F8D5E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FD1FE81021A68044002F8D5E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -26,6 +58,10 @@
 		FD1FE81B21A68046002F8D5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD1FE81D21A68046002F8D5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FD1FE81E21A68046002F8D5E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FDF285EB21A9C32800B6A77B /* ZKPuzzlePathMaker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKPuzzlePathMaker.h; sourceTree = "<group>"; };
+		FDF285EC21A9C32800B6A77B /* ZKPuzzlePathMaker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKPuzzlePathMaker.m; sourceTree = "<group>"; };
+		FDF285EE21A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIBezierPath+ZKPuzzlePathMaker.h"; sourceTree = "<group>"; };
+		FDF285EF21A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIBezierPath+ZKPuzzlePathMaker.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +75,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FD0F071821A7AA8300947030 /* ZKVerifyAlertView */ = {
+			isa = PBXGroup;
+			children = (
+				FD0F071921A7AAA400947030 /* ZKPuzzleVerifyView.h */,
+				FD0F071A21A7AAA400947030 /* ZKPuzzleVerifyView.m */,
+				FDF285EB21A9C32800B6A77B /* ZKPuzzlePathMaker.h */,
+				FDF285EC21A9C32800B6A77B /* ZKPuzzlePathMaker.m */,
+				FDF285EE21A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.h */,
+				FDF285EF21A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.m */,
+			);
+			path = ZKVerifyAlertView;
+			sourceTree = "<group>";
+		};
+		FD12349021AB9A7F0077CEF1 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				FD12346221AB98880077CEF1 /* 1.jpg */,
+				FD12346721AB98890077CEF1 /* 2.jpg */,
+				FD12346421AB98880077CEF1 /* 3.jpg */,
+				FD12346B21AB98890077CEF1 /* 4.jpg */,
+				FD12346521AB98880077CEF1 /* 5.jpg */,
+				FD12346621AB98890077CEF1 /* 6.jpg */,
+				FD12346A21AB98890077CEF1 /* 7.jpg */,
+				FD12346921AB98890077CEF1 /* 8.jpg */,
+				FD12346821AB98890077CEF1 /* 9.jpg */,
+				FD12346021AB98880077CEF1 /* 10.jpg */,
+				FD12346121AB98880077CEF1 /* 11.jpg */,
+				FD12346321AB98880077CEF1 /* 12.jpg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		FD1FE80321A68044002F8D5E = {
 			isa = PBXGroup;
 			children = (
@@ -62,10 +130,14 @@
 				FD1FE81021A68044002F8D5E /* AppDelegate.m */,
 				FD1FE81221A68044002F8D5E /* ViewController.h */,
 				FD1FE81321A68044002F8D5E /* ViewController.m */,
+				FD0F072821A7EBE200947030 /* ZKVerifyAlertView.h */,
+				FD0F072921A7EBE200947030 /* ZKVerifyAlertView.m */,
+				FD0F071821A7AA8300947030 /* ZKVerifyAlertView */,
 				FD1FE81521A68044002F8D5E /* Main.storyboard */,
 				FD1FE81821A68046002F8D5E /* Assets.xcassets */,
 				FD1FE81A21A68046002F8D5E /* LaunchScreen.storyboard */,
 				FD1FE81D21A68046002F8D5E /* Info.plist */,
+				FD12349021AB9A7F0077CEF1 /* Images */,
 				FD1FE81E21A68046002F8D5E /* main.m */,
 			);
 			path = ZKVerifyViewDemo;
@@ -128,9 +200,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD12347321AB98890077CEF1 /* 2.jpg in Resources */,
+				FD12346D21AB98890077CEF1 /* 11.jpg in Resources */,
 				FD1FE81C21A68046002F8D5E /* LaunchScreen.storyboard in Resources */,
+				FD12347721AB98890077CEF1 /* 4.jpg in Resources */,
+				FD12347621AB98890077CEF1 /* 7.jpg in Resources */,
+				FD12346F21AB98890077CEF1 /* 12.jpg in Resources */,
+				FD12347121AB98890077CEF1 /* 5.jpg in Resources */,
+				FD12347521AB98890077CEF1 /* 8.jpg in Resources */,
+				FD12347221AB98890077CEF1 /* 6.jpg in Resources */,
 				FD1FE81921A68046002F8D5E /* Assets.xcassets in Resources */,
+				FD12346E21AB98890077CEF1 /* 1.jpg in Resources */,
+				FD12346C21AB98890077CEF1 /* 10.jpg in Resources */,
+				FD12347421AB98890077CEF1 /* 9.jpg in Resources */,
 				FD1FE81721A68044002F8D5E /* Main.storyboard in Resources */,
+				FD12347021AB98890077CEF1 /* 3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,7 +227,11 @@
 			files = (
 				FD1FE81421A68044002F8D5E /* ViewController.m in Sources */,
 				FD1FE81F21A68046002F8D5E /* main.m in Sources */,
+				FD0F071B21A7AAA400947030 /* ZKPuzzleVerifyView.m in Sources */,
+				FDF285F021A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.m in Sources */,
+				FD0F072A21A7EBE200947030 /* ZKVerifyAlertView.m in Sources */,
 				FD1FE81121A68044002F8D5E /* AppDelegate.m in Sources */,
+				FDF285ED21A9C32800B6A77B /* ZKPuzzlePathMaker.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -186,17 +274,17 @@
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = NO;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
@@ -245,17 +333,17 @@
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = NO;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;

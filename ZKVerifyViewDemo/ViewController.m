@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "ZKVerifyAlertView.h"
 
 @interface ViewController ()
 
@@ -16,8 +17,23 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+   
+    [self.view addSubview:({
+        UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(0.f, 0.f, self.view.bounds.size.width, 50.f)];
+        label.center = self.view.center;
+        label.font = [UIFont boldSystemFontOfSize:20.f];
+        label.text = @"点我，点我！";
+        label.textAlignment = NSTextAlignmentCenter;
+        label;
+    })];
 }
 
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
+{
+    ZKVerifyAlertView *verifyView = [[ZKVerifyAlertView alloc] initWithMaximumVerifyNumber:3 results:^(ZKVerifyState state) {
+        NSLog(@"%zd", state);
+    }];
+    [verifyView show];
+}
 
 @end
