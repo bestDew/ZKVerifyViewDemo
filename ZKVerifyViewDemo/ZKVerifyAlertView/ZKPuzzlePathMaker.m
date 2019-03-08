@@ -251,7 +251,7 @@
 }
 
 // 保留6位小数
-CGFloat round6f(CGFloat x) {
+CG_INLINE CGFloat round6f(CGFloat x) {
     return roundf(x * 1000000) / 1000000.0;
 }
 
