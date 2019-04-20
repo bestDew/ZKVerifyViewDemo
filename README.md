@@ -6,7 +6,7 @@
 
 ![image](https://github.com/bestDew/ZKVerifyViewDemo/blob/master/ZKVerifyViewDemo/Untitled.gif)
 
-注意：效果图中的弹窗为外部单独实现，本库仅仅提供中间拼图验证码视图的封装，在实际应用中需要你自己根据项目UI效果图进行二次封装。
+⚠️注意：效果图中的弹窗为外部单独实现，本库仅仅提供中间拼图验证码视图的封装，在实际应用中需要你自己根据项目UI效果图进行二次封装。
 
 ## API展示
 
