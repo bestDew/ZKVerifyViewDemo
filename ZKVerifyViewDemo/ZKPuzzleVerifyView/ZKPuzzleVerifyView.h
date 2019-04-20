@@ -42,8 +42,6 @@
 
 #import <UIKit/UIKit.h>
 
-@class ZKPuzzleVerifyView;
-
 NS_ASSUME_NONNULL_BEGIN
 
 typedef NS_ENUM(NSInteger, ZKPuzzleVerifyStyle) {
