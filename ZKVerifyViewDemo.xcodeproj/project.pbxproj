@@ -27,6 +27,7 @@
 		FD1FE81921A68046002F8D5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD1FE81821A68046002F8D5E /* Assets.xcassets */; };
 		FD1FE81C21A68046002F8D5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD1FE81A21A68046002F8D5E /* LaunchScreen.storyboard */; };
 		FD1FE81F21A68046002F8D5E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FD1FE81E21A68046002F8D5E /* main.m */; };
+		FDDE7C9C226B21FD002F99AF /* Untitled.gif in Resources */ = {isa = PBXBuildFile; fileRef = FDDE7C9B226B21FD002F99AF /* Untitled.gif */; };
 		FDF285ED21A9C32800B6A77B /* ZKPuzzlePathMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF285EC21A9C32800B6A77B /* ZKPuzzlePathMaker.m */; };
 		FDF285F021A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF285EF21A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.m */; };
 /* End PBXBuildFile section */
@@ -58,6 +59,7 @@
 		FD1FE81B21A68046002F8D5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD1FE81D21A68046002F8D5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FD1FE81E21A68046002F8D5E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FDDE7C9B226B21FD002F99AF /* Untitled.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Untitled.gif; sourceTree = "<group>"; };
 		FDF285EB21A9C32800B6A77B /* ZKPuzzlePathMaker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKPuzzlePathMaker.h; sourceTree = "<group>"; };
 		FDF285EC21A9C32800B6A77B /* ZKPuzzlePathMaker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKPuzzlePathMaker.m; sourceTree = "<group>"; };
 		FDF285EE21A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIBezierPath+ZKPuzzlePathMaker.h"; sourceTree = "<group>"; };
@@ -75,7 +77,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FD0F071821A7AA8300947030 /* ZKVerifyAlertView */ = {
+		FD0F071821A7AA8300947030 /* ZKPuzzleVerifyView */ = {
 			isa = PBXGroup;
 			children = (
 				FD0F071921A7AAA400947030 /* ZKPuzzleVerifyView.h */,
@@ -85,7 +87,7 @@
 				FDF285EE21A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.h */,
 				FDF285EF21A9E27200B6A77B /* UIBezierPath+ZKPuzzlePathMaker.m */,
 			);
-			path = ZKVerifyAlertView;
+			path = ZKPuzzleVerifyView;
 			sourceTree = "<group>";
 		};
 		FD12349021AB9A7F0077CEF1 /* Images */ = {
@@ -132,11 +134,12 @@
 				FD1FE81321A68044002F8D5E /* ViewController.m */,
 				FD0F072821A7EBE200947030 /* ZKVerifyAlertView.h */,
 				FD0F072921A7EBE200947030 /* ZKVerifyAlertView.m */,
-				FD0F071821A7AA8300947030 /* ZKVerifyAlertView */,
+				FD0F071821A7AA8300947030 /* ZKPuzzleVerifyView */,
 				FD1FE81521A68044002F8D5E /* Main.storyboard */,
 				FD1FE81821A68046002F8D5E /* Assets.xcassets */,
 				FD1FE81A21A68046002F8D5E /* LaunchScreen.storyboard */,
 				FD1FE81D21A68046002F8D5E /* Info.plist */,
+				FDDE7C9B226B21FD002F99AF /* Untitled.gif */,
 				FD12349021AB9A7F0077CEF1 /* Images */,
 				FD1FE81E21A68046002F8D5E /* main.m */,
 			);
@@ -209,6 +212,7 @@
 				FD12347121AB98890077CEF1 /* 5.jpg in Resources */,
 				FD12347521AB98890077CEF1 /* 8.jpg in Resources */,
 				FD12347221AB98890077CEF1 /* 6.jpg in Resources */,
+				FDDE7C9C226B21FD002F99AF /* Untitled.gif in Resources */,
 				FD1FE81921A68046002F8D5E /* Assets.xcassets in Resources */,
 				FD12346E21AB98890077CEF1 /* 1.jpg in Resources */,
 				FD12346C21AB98890077CEF1 /* 10.jpg in Resources */,
